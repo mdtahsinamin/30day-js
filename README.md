@@ -6,10 +6,10 @@
 
 ### Day - 2 :
 
-Tasks on the variable and Data types. Simple operation using Arithmetic operators (addition, subtract, multiply, divide, remainder). Assignment operators, comparison operators, logical operators, ternary operator
-
+Tasks on the variable and Data types. Simple operation using `Arithmetic` operators (addition, subtract, multiply, divide, remainder). `Assignment` operators, `comparison` operators, `logical` operators, `ternary` operator
 
 ### Day - 3 :
-Implement and understand basic if-else control flow, used nested if-else statements to handle multiple conditions. Utilize switch case for control flow, condition checking using ternary, leap problem solve.
+
+Implement and understand basic `if-else` control flow, used nested `if-else` statements to handle multiple conditions. Utilize `switch` case for control flow, condition checking using ternary, leap problem solve.
 
 Thank you @Chai ar Code
