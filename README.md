@@ -16,4 +16,8 @@ Implement and understand basic `if-else` control flow, used nested `if-else` sta
 
 Understand and use `for` loop to iterate over a sequence of number. Utilize `while` loop, Apply `do..while` loop. understand `break` & `continue` keyword.
 
+### Day - 4 :
+
+Understand and define functions using `function` declaration, expression, and `arrow functions`. Use `function parameter` and `default values` effectively. Create `higher order functions`.
+
 Thank you @Chai ar Code
