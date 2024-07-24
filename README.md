@@ -28,4 +28,8 @@ Create and manipulate arrays using various methods, transform and aggregate arra
 
 Create and manipulate objects with properties and methods. Understand and use the `this` keyword in object methods. Work with nested objects and array of objects. Iterate over an object's properties using loops and built-in methods
 
+### Day - 8 :
+
+Understand and use template literals for string interpolation and multi-line strings. Apply destructuring to extract values from arrays and object. Utilize spread and rest operator. Create object using enhanced object including method.
+
 Thank you @Chai ar Code
