@@ -39,7 +39,7 @@ const person1 = {
 // process - 1
 const result = keys.reduce((obj, key, index) => {
   return {
-    ...obj,
+    ...obj, // spread it
     [key]: values[index],
   };
 }, {});
@@ -57,3 +57,13 @@ const obj = keys.reduce((acc, key, index) => {
 }, {});
 
 console.log(obj);
+
+// object access, update
+
+person["name"] = "Ayesha";
+
+person.getAge = function () {
+  return this.age;
+};
+
+console.log(person.getAge());
