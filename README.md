@@ -20,4 +20,8 @@ Understand and use `for` loop to iterate over a sequence of number. Utilize `whi
 
 Understand and define functions using `function` declaration, expression, and `arrow functions`. Use `function parameter` and `default values` effectively. Create `higher order functions`.
 
+### Day - 5 :
+
+Create and manipulate arrays using various methods, transform and aggregate array data map, filer,and reduce. Iterate over array using loop and iteration methods.
+
 Thank you @Chai ar Code
