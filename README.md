@@ -16,12 +16,16 @@ Implement and understand basic `if-else` control flow, used nested `if-else` sta
 
 Understand and use `for` loop to iterate over a sequence of number. Utilize `while` loop, Apply `do..while` loop. understand `break` & `continue` keyword.
 
-### Day - 4 :
+### Day - 5 :
 
 Understand and define functions using `function` declaration, expression, and `arrow functions`. Use `function parameter` and `default values` effectively. Create `higher order functions`.
 
-### Day - 5 :
+### Day - 6 :
 
-Create and manipulate arrays using various methods, transform and aggregate array data map, filer,and reduce. Iterate over array using loop and iteration methods.
+Create and manipulate arrays using various methods, transform and aggregate array data `map`, `filter`,and `reduce`. Iterate over array using loop and iteration methods.
+
+### Day - 7 :
+
+Create and manipulate objects with properties and methods. Understand and use the `this` keyword in object methods. Work with nested objects and array of objects. Iterate over an object's properties using loops and built-in methods
 
 Thank you @Chai ar Code
